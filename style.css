@@ -712,7 +712,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 400px){
    body{
         scroll-behavior: smooth;
         padding: 0px;
